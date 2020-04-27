@@ -1,0 +1,15 @@
+{
+  "dmx_cookie": {
+    "dxm_name": "xxxx"
+  },
+  "shopify_cookie": {
+    "shop_name": "xxx"
+  },
+  "site": {
+    "shop_name": "shop_id"
+  },
+  "goods_names": [
+    "match the goods name if need"
+  ],
+  "limitation": 10
+}
