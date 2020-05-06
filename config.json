@@ -11,5 +11,5 @@
   "goods_names": [
     "match the goods name if need"
   ],
-  "limitation": 10
+  "limitation": 100
 }
